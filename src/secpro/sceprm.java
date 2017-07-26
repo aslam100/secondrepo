@@ -4,7 +4,7 @@ public class sceprm {
 
 	public static void main(String[] args) {
 		System.out.println("gjkerghergre");
-//this is for test
+//this is for testtt
 	}
 
 }
